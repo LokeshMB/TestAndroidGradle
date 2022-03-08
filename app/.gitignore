@@ -1,1 +1,9 @@
 /build
+gradle/
+build/
+local.properties
+proguard/
+bin/
+out/
+gen/
+.idea
